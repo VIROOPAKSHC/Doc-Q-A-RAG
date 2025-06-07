@@ -90,6 +90,6 @@ Doc-Q-A-RAG/
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)
 
 ### 👤 Author
-Viroopaksh C
-AI/ML Researcher & Engineer
+Viroopaksh C |
+AI/ML Researcher & Engineer |
 [🔗 LinkedIn](https://www.linkedin.com/in/viroopaksh-chekuri) | ✉️ Open to collaboration!
